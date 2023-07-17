@@ -5,7 +5,7 @@ standalone: true,
 selector: 'app-header',
 template: `
   <h1> Intro to Programing</h1>
-  <p> Sample Full-Stack Application</p>
+  <p> Sample Full-Stack Application Heloow</p>
 `
 })
 
